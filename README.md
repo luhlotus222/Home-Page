@@ -8,7 +8,7 @@
     <style>
     
         body {
-            font-family: Helvetica, sans-serif;
+            font-family: Helvetica, sans-serif, Time New Roman, Nolo Sans;
             margin: 0;
             padding: 0;
             box-sizing: border-box;
@@ -16,24 +16,24 @@
             background-size: cover;
             background-position: center;
             background-attachment: fixed;
-            color: rgb(red, green, blue);
+    
         }
 
         header {
             background-color: #ff3363;
             color: white;
             text-align: center;
-            padding: 1em;
+            padding: 2em;
         }
 
         nav {
             background-color: #33d1ff;
-            color: white;
+            color: black;
             padding: 0.5em;
         }
 
         nav a {
-            color: white;
+            color: black;
             text-decoration: none;
             padding: 0.5em 1em;
             margin: 0 1em;
@@ -63,9 +63,9 @@
     </header>
 
     <nav>
-        <a href="#">Home</a>
-        <a href="#">About</a>
-        <a href="#">Contact</a>
+        <a href="#">Home Page</a>
+        <a href="#">About Us Page</a>
+        <a href="#">Contact Page</a>
     </nav>
 <!--the art content will displayed under the navigation bar and heading-->
 <!--the website will also include a background image displayed on all three pages.-->
